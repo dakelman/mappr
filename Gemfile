@@ -33,6 +33,7 @@ group :doc do
 end
 
 gem 'simple_form'
+gem 'geokit'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
